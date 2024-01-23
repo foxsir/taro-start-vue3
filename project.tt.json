@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "global-stone-mini-program",
+  "description": "global stone miniprogram",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
